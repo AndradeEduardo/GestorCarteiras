@@ -1,0 +1,922 @@
+Negócios realizados
+Q
+Negociação
+C/V
+Tipo mercado
+Prazo
+Especificação do título
+Obs. (*)
+Quantidade
+Preço / Ajuste
+Valor Operação / Ajuste
+D/C
+1-BOVESPA
+C
+FRACIONARIO
+B3          ON 
+EDJ NM
+17
+12,19
+207,23
+D
+1-BOVESPA
+C
+FRACIONARIO
+BRASIL          ON 
+NM
+11
+33,23
+365,53
+D
+1-BOVESPA
+C
+FRACIONARIO
+ENGIE BRASIL          ON 
+EJ 
+NM
+17
+37,26
+633,42
+D
+1-BOVESPA
+C
+FRACIONARIO
+PETROBRAS          PN 
+N2
+19
+23,03
+437,57
+D
+1-BOVESPA
+C
+FRACIONARIO
+TELEF BRASIL          ON 
+EDJ
+13
+36,38
+472,94
+D
+1-BOVESPA
+C
+VISTA
+IRANI          ON 
+NM
+100
+7,82
+782,00
+D
+1-BOVESPA
+C
+VISTA
+SANEPAR          PN 
+EJ 
+N2
+100
+3,44
+344,00
+D
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+60488097
+Folha
+1
+Data pregão
+02/01/2023
+Rico Investimentos - Grupo XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 
+25º ANDAR 
+VILA OLIMPIA
+04543-907
+SÃO PAULO - SP
+Tel. (5511) 3003-5465   Fax: (5511) 4007-2465
+Internet: www.rico.com.vc SAC: 0800.722.3730
+e-mail: atendimento@rico.com.vc
+C.N.P.J: 02.332.886/0016-82
+Carta Patente:
+Ouvidoria: Tel. 0800.722.3730
+e-mail ouvidoria:
+Cliente
+6429668
+EDUARDO DE ANDRADE RODRIGUES
+SQS 102 BLOCO K, 105 
+ASA SUL
+Tel. (061) 99987-1729
+70330-110 
+BRASILIA - DF
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+Banco
+Agência
+Conta corrente
+Acionista
+Administrador
+799.824.171-34
+C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente
+3-5   6429668
+Assessor
+9038
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+0,00
+0,00
+3.242,69
+0,00
+0,00
+0,00
+0,00
+3.242,69
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+ 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) Observações
+A - Posição futuro
+T - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.
+C - Clubes e fundos de Ações
+I - POP
+# - Negócio direto
+P - Carteira Própria
+8 - Liquidação Institucional
+H - Home Broker
+D - Day Trade
+X - Box
+F - Cobertura
+Y - Desmanche de Box
+B - Debêntures
+L - Precatório
+3.243,50
+Total CBLC
+D
+3.242,69
+Valor líquido das operações
+D
+0,81
+Taxa de liquidação
+D
+0,00
+Taxa de Registro
+D
+0,16
+Total Bovespa / Soma
+D
+0,00
+Taxa de termo/opções
+D
+0,00
+Taxa A.N.A.
+D
+0,16
+Emolumentos
+D
+ 
+0,00
+Total Custos / Despesas
+D
+ 
+0,00
+Taxa Operacional
+D
+0,00
+Execução
+0,00
+Taxa de Custódia
+0,00
+Impostos
+0,00
+I.R.R.F. s/ operações, base R$0,00
+0,00
+Outros
+C
+3.243,66
+Líquido para 04/01/2023
+D
+Resumo Financeiro
+Clearing
+Bolsa
+Custos Operacionais
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 3003-5465 ou 4007-2465 Demais localidades: 0800-771-5465 SAC: 0800-774-0402 Ouvidoria: 0800-722-3730Negócios realizados
+Q
+Negociação
+C/V
+Tipo mercado
+Prazo
+Especificação do título
+Obs. (*)
+Quantidade
+Preço / Ajuste
+Valor Operação / Ajuste
+D/C
+1-BOVESPA
+C
+VISTA
+IRBBRASIL RE          ON 
+NM
+200
+0,94
+188,00
+D
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+60790497
+Folha
+1
+Data pregão
+06/01/2023
+Rico Investimentos - Grupo XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 
+25º ANDAR 
+VILA OLIMPIA
+04543-907
+SÃO PAULO - SP
+Tel. (5511) 3003-5465   Fax: (5511) 4007-2465
+Internet: www.rico.com.vc SAC: 0800.722.3730
+e-mail: atendimento@rico.com.vc
+C.N.P.J: 02.332.886/0016-82
+Carta Patente:
+Ouvidoria: Tel. 0800.722.3730
+e-mail ouvidoria:
+Cliente
+6429668
+EDUARDO DE ANDRADE RODRIGUES
+SQS 102 BLOCO K, 105 
+ASA SUL
+Tel. (061) 99987-1729
+70330-110 
+BRASILIA - DF
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+Banco
+Agência
+Conta corrente
+Acionista
+Administrador
+799.824.171-34
+C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente
+3-5   6429668
+Assessor
+9038
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+0,00
+0,00
+188,00
+0,00
+0,00
+0,00
+0,00
+188,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+ 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) Observações
+A - Posição futuro
+T - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.
+C - Clubes e fundos de Ações
+I - POP
+# - Negócio direto
+P - Carteira Própria
+8 - Liquidação Institucional
+H - Home Broker
+D - Day Trade
+X - Box
+F - Cobertura
+Y - Desmanche de Box
+B - Debêntures
+L - Precatório
+188,04
+Total CBLC
+D
+188,00
+Valor líquido das operações
+D
+0,04
+Taxa de liquidação
+D
+0,00
+Taxa de Registro
+D
+0,00
+Total Bovespa / Soma
+C
+0,00
+Taxa de termo/opções
+D
+0,00
+Taxa A.N.A.
+D
+0,00
+Emolumentos
+D
+ 
+0,00
+Total Custos / Despesas
+D
+ 
+0,00
+Taxa Operacional
+D
+0,00
+Execução
+0,00
+Taxa de Custódia
+0,00
+Impostos
+0,00
+I.R.R.F. s/ operações, base R$0,00
+0,00
+Outros
+C
+188,04
+Líquido para 10/01/2023
+D
+Resumo Financeiro
+Clearing
+Bolsa
+Custos Operacionais
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 3003-5465 ou 4007-2465 Demais localidades: 0800-771-5465 SAC: 0800-774-0402 Ouvidoria: 0800-722-3730Negócios realizados
+Q
+Negociação
+C/V
+Tipo mercado
+Prazo
+Especificação do título
+Obs. (*)
+Quantidade
+Preço / Ajuste
+Valor Operação / Ajuste
+D/C
+1-BOVESPA
+C
+FRACIONARIO
+AMBIPAR          ON 
+NM
+11
+20,94
+230,34
+D
+1-BOVESPA
+C
+FRACIONARIO
+BLAU          ON 
+NM
+7
+26,49
+185,43
+D
+1-BOVESPA
+C
+FRACIONARIO
+BOA SAFRA          ON 
+NM
+23
+10,61
+244,03
+D
+1-BOVESPA
+C
+FRACIONARIO
+ENGIE BRASIL          ON 
+NM
+13
+37,81
+491,53
+D
+1-BOVESPA
+C
+FRACIONARIO
+NEOENERGIA          ON 
+EJ 
+NM
+29
+14,65
+424,85
+D
+1-BOVESPA
+C
+FRACIONARIO
+SIMPAR          ON 
+NM
+43
+7,19
+309,17
+D
+1-BOVESPA
+C
+FRACIONARIO
+TAURUS ARMAS          PN 
+N2
+19
+12,92
+245,48
+D
+1-BOVESPA
+C
+FRACIONARIO
+TELEF BRASIL          ON 
+EDJ
+6
+38,50
+231,00
+D
+1-BOVESPA
+C
+FRACIONARIO
+WIZ S.A.          ON 
+NM
+#
+58
+7,00
+406,00
+D
+1-BOVESPA
+C
+FRACIONARIO
+WIZ S.A.          ON 
+NM
+13
+7,00
+91,00
+D
+1-BOVESPA
+C
+VISTA
+KLABIN S/A          PN 
+N2
+100
+4,06
+406,00
+D
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+60929064
+Folha
+1
+Data pregão
+10/01/2023
+Rico Investimentos - Grupo XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 
+25º ANDAR 
+VILA OLIMPIA
+04543-907
+SÃO PAULO - SP
+Tel. (5511) 3003-5465   Fax: (5511) 4007-2465
+Internet: www.rico.com.vc SAC: 0800.722.3730
+e-mail: atendimento@rico.com.vc
+C.N.P.J: 02.332.886/0016-82
+Carta Patente:
+Ouvidoria: Tel. 0800.722.3730
+e-mail ouvidoria:
+Cliente
+6429668
+EDUARDO DE ANDRADE RODRIGUES
+SQS 102 BLOCO K, 105 
+ASA SUL
+Tel. (061) 99987-1729
+70330-110 
+BRASILIA - DF
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+Banco
+Agência
+Conta corrente
+Acionista
+Administrador
+799.824.171-34
+C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente
+3-5   6429668
+Assessor
+9038
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+0,00
+0,00
+3.264,83
+0,00
+0,00
+0,00
+0,00
+3.264,83
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+ 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) Observações
+A - Posição futuro
+T - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.
+C - Clubes e fundos de Ações
+I - POP
+# - Negócio direto
+P - Carteira Própria
+8 - Liquidação Institucional
+H - Home Broker
+D - Day Trade
+X - Box
+F - Cobertura
+Y - Desmanche de Box
+B - Debêntures
+L - Precatório
+3.265,64
+Total CBLC
+D
+3.264,83
+Valor líquido das operações
+D
+0,81
+Taxa de liquidação
+D
+0,00
+Taxa de Registro
+D
+0,16
+Total Bovespa / Soma
+D
+0,00
+Taxa de termo/opções
+D
+0,00
+Taxa A.N.A.
+D
+0,16
+Emolumentos
+D
+ 
+0,00
+Total Custos / Despesas
+D
+ 
+0,00
+Taxa Operacional
+D
+0,00
+Execução
+0,00
+Taxa de Custódia
+0,00
+Impostos
+0,00
+I.R.R.F. s/ operações, base R$0,00
+0,00
+Outros
+C
+3.265,80
+Líquido para 12/01/2023
+D
+Resumo Financeiro
+Clearing
+Bolsa
+Custos Operacionais
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 3003-5465 ou 4007-2465 Demais localidades: 0800-771-5465 SAC: 0800-774-0402 Ouvidoria: 0800-722-3730Negócios realizados
+Q
+Negociação
+C/V
+Tipo mercado
+Prazo
+Especificação do título
+Obs. (*)
+Quantidade
+Preço / Ajuste
+Valor Operação / Ajuste
+D/C
+1-BOVESPA
+C
+FRACIONARIO
+ALIANSCSONAE          ON 
+NM
+3
+18,07
+54,21
+D
+1-BOVESPA
+C
+FRACIONARIO
+ALIANSCSONAE          ON 
+NM
+#
+1
+18,07
+18,07
+D
+1-BOVESPA
+C
+FRACIONARIO
+ALIANSCSONAE          ON 
+NM
+#
+19
+18,07
+343,33
+D
+1-BOVESPA
+C
+FRACIONARIO
+BLAU          ON 
+NM
+15
+26,72
+400,80
+D
+1-BOVESPA
+C
+FRACIONARIO
+BR PARTNERS          UNT 
+N2
+34
+11,96
+406,64
+D
+1-BOVESPA
+C
+FRACIONARIO
+ENGIE BRASIL          ON 
+NM
+10
+39,02
+390,20
+D
+1-BOVESPA
+C
+FRACIONARIO
+IRBBRASIL RE          ON 
+EG 
+NM
+5
+23,10
+115,50
+D
+1-BOVESPA
+C
+FRACIONARIO
+IRBBRASIL RE          ON 
+EG 
+NM
+5
+23,17
+115,85
+D
+1-BOVESPA
+C
+FRACIONARIO
+IRBBRASIL RE          ON 
+EG 
+NM
+#
+7
+23,17
+162,19
+D
+1-BOVESPA
+C
+FRACIONARIO
+KLABIN S/A          UNT 
+N2
+21
+19,16
+402,36
+D
+1-BOVESPA
+C
+FRACIONARIO
+NEOENERGIA          ON 
+NM
+27
+15,02
+405,54
+D
+1-BOVESPA
+C
+FRACIONARIO
+NEOENERGIA          ON 
+NM
+1
+15,02
+15,02
+D
+1-BOVESPA
+C
+FRACIONARIO
+NEOENERGIA          ON 
+NM
+#
+1
+15,02
+15,02
+D
+1-BOVESPA
+C
+FRACIONARIO
+PETROBRAS          PN 
+N2
+15
+26,17
+392,55
+D
+1-BOVESPA
+C
+FRACIONARIO
+SIMPAR          ON 
+NM
+53
+7,48
+396,44
+D
+1-BOVESPA
+C
+FRACIONARIO
+TELEF BRASIL          ON
+10
+40,24
+402,40
+D
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+61890749
+Folha
+1
+Data pregão
+26/01/2023
+Rico Investimentos - Grupo XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 
+25º ANDAR 
+VILA OLIMPIA
+04543-907
+SÃO PAULO - SP
+Tel. (5511) 3003-5465   Fax: (5511) 4007-2465
+Internet: www.rico.com.vc SAC: 0800.722.3730
+e-mail: atendimento@rico.com.vc
+C.N.P.J: 02.332.886/0016-82
+Carta Patente:
+Ouvidoria: Tel. 0800.722.3730
+e-mail ouvidoria:
+Cliente
+6429668
+EDUARDO DE ANDRADE RODRIGUES
+SQS 102 BLOCO K, 105 
+ASA SUL
+Tel. (061) 99987-1729
+70330-110 
+BRASILIA - DF
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+Banco
+Agência
+Conta corrente
+Acionista
+Administrador
+799.824.171-34
+C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente
+3-5   6429668
+Assessor
+9038
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+0,00
+0,00
+4.036,12
+0,00
+0,00
+0,00
+0,00
+4.036,12
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+ 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) Observações
+A - Posição futuro
+T - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.
+C - Clubes e fundos de Ações
+I - POP
+# - Negócio direto
+P - Carteira Própria
+8 - Liquidação Institucional
+H - Home Broker
+D - Day Trade
+X - Box
+F - Cobertura
+Y - Desmanche de Box
+B - Debêntures
+L - Precatório
+4.037,12
+Total CBLC
+D
+4.036,12
+Valor líquido das operações
+D
+1,00
+Taxa de liquidação
+D
+0,00
+Taxa de Registro
+D
+0,20
+Total Bovespa / Soma
+D
+0,00
+Taxa de termo/opções
+D
+0,00
+Taxa A.N.A.
+D
+0,20
+Emolumentos
+D
+ 
+0,00
+Total Custos / Despesas
+D
+ 
+0,00
+Taxa Operacional
+D
+0,00
+Execução
+0,00
+Taxa de Custódia
+0,00
+Impostos
+0,00
+I.R.R.F. s/ operações, base R$0,00
+0,00
+Outros
+C
+4.037,32
+Líquido para 30/01/2023
+D
+Resumo Financeiro
+Clearing
+Bolsa
+Custos Operacionais
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 3003-5465 ou 4007-2465 Demais localidades: 0800-771-5465 SAC: 0800-774-0402 Ouvidoria: 0800-722-3730

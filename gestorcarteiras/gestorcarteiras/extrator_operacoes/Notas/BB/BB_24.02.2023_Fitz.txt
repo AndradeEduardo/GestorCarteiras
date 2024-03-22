@@ -1,0 +1,220 @@
+ Nr.Nota
+ Folha
+24022023/708
+ Data pregão
+1
+24/02/2023
+ RUA SENADOR DANTAS, 105 - 36º ANDAR - CENTRO
+RIO DE JANEIRO - RJ
+CEP: 20031-923
+ Tel. 4004-0001  ou  0800 729 0001
+                                         Suporte Técnico: Tel. 0800 729 0200
+ Internet  :  www.bb.com.br/acoes
+e-mail: acoes@bb.com.br
+ C.N.P.J.:  24.933.830/0001-30
+Carta Patente: 9.927.802/87
+ Ouvidoria: Tel. 0800 729 5678
+e-mail ouvidoria:
+ Cliente
+ C.P.F./C.N.P.J./C.V.M./C.O.B.
+799.824.171-34
+ Código cliente
+820-6
+1.142.805-0
+ Assessor
+0
+ Agente de Compensação
+                -
+ Cliente
+                -
+ Valor
+1.567,19
+ Custodiante
+ C.I.
+                -
+N
+ Agência
+ Conta Corrente
+ Acionista
+ Administrador
+ Complemento nome
+ P.
+3.475
+211.346-5
+ BB BANCO DE INVESTIMENTO S.A.
+1.142.805-0
+EDUARDO DE ANDRADE RODRIGUES
+PC DOS TRES PODERES
+ NOTA DE CORRETAGEM
+ Banco
+1
+ Negócios realizados
+ | D
+BRASILIA - DF
+70100-000
+(61) 99987-1729
+Q  Negociação
+C/V  Tipo mercado
+ Prazo
+ Especificação do título
+ Obs.
+ Quantidade
+ Preço /
+D/C
+ Valor Operação /
+1-BOVESPA
+C
+VISTA
+FII XP INDL CI  ER
+H
+1
+71,10
+71,10
+D
+1-BOVESPA
+C
+VISTA
+FII XP INDL CI  ER
+H
+1
+71,13
+71,13
+D
+1-BOVESPA
+C
+VISTA
+FII XP INDL CI  ER
+H
+1
+71,14
+71,14
+D
+1-BOVESPA
+C
+VISTA
+FII GEN SHOP CI
+H
+4
+46,88
+187,52
+D
+1-BOVESPA
+C
+VISTA
+FII S F LIMA CI
+H
+3
+125,00
+375,00
+D
+1-BOVESPA
+C
+VISTA
+FIP PATR INF CI
+H
+1
+74,90
+74,90
+D
+1-BOVESPA
+C
+VISTA
+FIP PATR INF CI
+H
+4
+74,91
+299,64
+D
+1-BOVESPA
+C
+VISTA
+SUNO FIC FI CI  ERA
+H
+4
+101,59
+406,36
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+ Resumo dos Negócios
+ Debêntures
+0,00
+ Vendas à vista
+0,00
+ Compras à vista
+1.556,79
+ Opções - compras
+ Opções - vendas
+0,00
+0,00
+ Operações à termo
+ Valor das oper. c/ títulos públ. (v. nom.)
+ Valor das operações
+0,00
+0,00
+1.556,79
+ Especificações diversas
+ A Coluna Q indica liquidação no Agente do Qualificado.
+ I.R.R.F Day-Trade: Base R$ 0,00             Projeção R$ 0,00
+ (*) - Observações:
+ 2 - Corretora ou pessoa vinculada atuou na contra
+A - Posição Futuro
+ T - Liquidação pelo Bruto
+C - Clubes e Fundos de Ações
+ I - POP
+ # - Negócio direto
+P - Carteira Própria
+ 8 - Liquidação Institucional.
+H - Home Broker
+ D - Day-Trade
+X - Box
+ F - Cobertura
+Y - Desmanche de Box
+ B - Debêntures
+L - Precatório
+ Resumo Financeiro
+ CBLC
+1.556,79
+ Valor líquido das operações
+ Taxa de liquidação
+ Taxa de Registro
+0,38
+ Total  CBLC
+1.557,17
+ Bovespa / Soma
+ Taxa de termo/opções
+ Taxa A.N.A.
+ Emolumentos
+0,07
+ Total Bovespa / Soma
+0,07
+ Corretagem / Despesas
+ Corretagem
+ Outras
+ Total corretagem / Despesas
+9,95
+ Líquido para  28/02/2023
+1.567,19
+ Observação:  (1) As operações a termo não são computadas no líquido da fatura
+____________________________________________________________________
+BB BANCO DE INVESTIMENTO S.A.
+Banco do Brasil - Home Broker (v #)
+Página 1 de 1
+01/03/2023  15:06
+0,00
+0,00
+0,00
+0,00
+0,00
+9,95
+D/C

@@ -1,0 +1,74 @@
+NOTA DE CORRETAGEM
+4221725 Nr. nota
+1 Folha
+22/06/2023 Data pregão
+Carta Patente:
+ Avenida Brigadeiro Faria Lima, 3477 - 14º Andar ITAIM BIBI
+Tel: (011) 3046 - 2100 / 3443 - 2100
+C.N.P.J: 43.815.158/0001-2204538-133 SÃO PAULO - SPBTG Pactual CTVM S.A.
+Internet: www.btgpactual.com
+SAC: 0800-722-2827  Ouvidoria: Tel. 0800-722-0048e-mail: atendimentoinvestimentos@btgpactual.com
+e-mail ouvidoria: ouvidoria@btgpactual.com
+ Cliente
+001036170 C.P.F./C.N.P.J/C.V.M./C.O.B.
+799.824.171-34 EDUARDO DE ANDRADE RODRIGUES
+SQS 102 BLOCO K, 105  70330110 BRASILIA DISTRITO FEDERAL Tel. (61) 999871729  Código cliente
+85-0 001036170 Assessor
+ Participante destino do repasse
+1026 Cliente
+- Valor
+0 Custodiante  C.I
+N
+ Banco  Acionista  Administrador  Complemento nome  P.Vinc
+N Agência  Conta Corrente
+Negócios realizados
+QNegociação C/VTipo Mercado PrazoEspecificação do título Obs. (*) Quantidade Preço / Ajuste Valor Operação / Ajuste D/C
+1-BOVESPA CVISTA EZTC3 ON 100 18,10 1.810,00 D
+1-BOVESPA VVISTA FIQE3 ON 100 4,08 408,00 D
+1-BOVESPA CVISTA PETR4F PN 21 31,29 657,09 D
+1-BOVESPA CVISTA VALE3F ON 11 66,74 734,14 D
+Resumo dos Negócios Resumo Financeiro
+Debêntures Clearing0,00
+0,00 Vendas à vista
+Compras à vista 3.609,23
+0,00 Opções - compras
+Opções - vendas 0,00
+0,00 Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.) 0,00
+3.609,23 Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.3.609,23 Valor líquido das operações D
+0,90 Taxa de liquidação D
+0,00 Taxa de Registro
+3.610,13 Total CBLC D
+Bolsa
+0,00 Taxa de termo/opções
+0,00 Taxa A.N.A.
+0,18 Emolumentos D
+0,18 Total Bovespa / Soma D
+Corretagem / Despesas
+0,00 Clearing
+0,00 Execução
+0,00 Execução casa
+0,00
+0,00
+0,00I.R.R.F. s/ operações, base R$ 0,00
+Outras Bovespa
+Total corretagem / Despesas 0,00
+Líquido para 26/06/2023 D 3.610,31
+(*) Observações
+C - Clubes e fundos deI - POP2 - Corretora ou pessoa vinculada atuouA - Posição futuro T - Liquidação pelo
+P - Carteira Própria # - Negócio direto
+H - Home Broker 8 - Liquidação Institucional
+X - Box D - Day Trade
+Y - Desmanche de Box F - Cobertura
+L - Precatório B - DebênturesObservações:
+(1) As operações a termo não são computadas no líquido da fatura.
+(2) IR fonte à alíquota de 0,005% somente serão debitados em sua conta corrente, a
+partir do momento em que o IRRF for superior à R$ 1,00, no respectivo mês calendário.
+(3) Valor mínimo de IR fonte à alíquota de 0,005% não se aplica para FII e ETF.
+(4) IR fonte Day Trade de 1% não é descontado no líquido da nota. O débito será feito
+diretamente na conta do cliente.
+(5) ISS*  contempla o ISS do município PIS / COFINS.ISS* (SÃO PAULO - SP)
+Capitais e regiões metropolitanas: (011) 4007-2511   Demais localidades: 0800-001-2511 SAC: 0800-772-2827   Ouvidoria: 0800-722-0048
+www.btgpactual.com

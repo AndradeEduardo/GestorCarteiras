@@ -1,0 +1,236 @@
+ Nr.Nota
+ Folha
+25012023/804
+ Data pregão
+1
+25/01/2023
+ RUA SENADOR DANTAS, 105 - 36º ANDAR - CENTRO
+RIO DE JANEIRO - RJ
+CEP: 20031-923
+ Tel. 4004-0001  ou  0800 729 0001
+                                         Suporte Técnico: Tel. 0800 729 0200
+ Internet  :  www.bb.com.br/acoes
+e-mail: acoes@bb.com.br
+ C.N.P.J.:  24.933.830/0001-30
+Carta Patente: 9.927.802/87
+ Ouvidoria: Tel. 0800 729 5678
+e-mail ouvidoria:
+ Cliente
+ C.P.F./C.N.P.J./C.V.M./C.O.B.
+799.824.171-34
+ Código cliente
+820-6
+1.142.805-0
+ Assessor
+0
+ Agente de Compensação
+                -
+ Cliente
+                -
+ Valor
+3.590,11
+ Custodiante
+ C.I.
+                -
+N
+ Agência
+ Conta Corrente
+ Acionista
+ Administrador
+ Complemento nome
+ P.
+3.475
+211.346-5
+ BB BANCO DE INVESTIMENTO S.A.
+1.142.805-0
+EDUARDO DE ANDRADE RODRIGUES
+PC DOS TRES PODERES
+ NOTA DE CORRETAGEM
+ Banco
+1
+ Negócios realizados
+ | D
+BRASILIA - DF
+70100-000
+(61) 99987-1729
+Q  Negociação
+C/V  Tipo mercado
+ Prazo
+ Especificação do título
+ Obs.
+ Quantidade
+ Preço /
+D/C
+ Valor Operação /
+1-BOVESPA
+C
+VISTA
+FII CSHG URB CI
+5
+116,84
+584,20
+D
+1-BOVESPA
+C
+VISTA
+FII XP INDL CI  ER
+2
+73,15
+146,30
+D
+1-BOVESPA
+C
+VISTA
+FII GEN SHOP CI
+1
+48,73
+48,73
+D
+1-BOVESPA
+C
+VISTA
+FII GEN SHOP CI
+3
+48,74
+146,22
+D
+1-BOVESPA
+C
+VISTA
+FII TRX REAL CI
+6
+104,49
+626,94
+D
+1-BOVESPA
+C
+VISTA
+FII IRIDIUM CI
+7
+91,28
+638,96
+D
+1-BOVESPA
+C
+VISTA
+FII S F LIMA CI
+1
+130,10
+130,10
+D
+1-BOVESPA
+C
+VISTA
+FII SDI LOG CI
+5
+90,61
+453,05
+D
+1-BOVESPA
+C
+VISTA
+FII SDI LOG CI
+1
+90,62
+90,62
+D
+1-BOVESPA
+C
+VISTA
+FII XP MALLS CI  ER
+6
+96,52
+579,12
+D
+1-BOVESPA
+C
+VISTA
+FII RBR PROP CI
+3
+48,27
+144,81
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+ Resumo dos Negócios
+ Debêntures
+0,00
+ Vendas à vista
+0,00
+ Compras à vista
+3.589,05
+ Opções - compras
+ Opções - vendas
+0,00
+0,00
+ Operações à termo
+ Valor das oper. c/ títulos públ. (v. nom.)
+ Valor das operações
+0,00
+0,00
+3.589,05
+ Especificações diversas
+ A Coluna Q indica liquidação no Agente do Qualificado.
+ I.R.R.F Day-Trade: Base R$ 0,00             Projeção R$ 0,00
+ (*) - Observações:
+ 2 - Corretora ou pessoa vinculada atuou na contra
+A - Posição Futuro
+ T - Liquidação pelo Bruto
+C - Clubes e Fundos de Ações
+ I - POP
+ # - Negócio direto
+P - Carteira Própria
+ 8 - Liquidação Institucional.
+H - Home Broker
+ D - Day-Trade
+X - Box
+ F - Cobertura
+Y - Desmanche de Box
+ B - Debêntures
+L - Precatório
+ Resumo Financeiro
+ CBLC
+3.589,05
+ Valor líquido das operações
+ Taxa de liquidação
+ Taxa de Registro
+0,89
+ Total  CBLC
+3.589,94
+ Bovespa / Soma
+ Taxa de termo/opções
+ Taxa A.N.A.
+ Emolumentos
+0,17
+ Total Bovespa / Soma
+0,17
+ Corretagem / Despesas
+ Corretagem
+ Outras
+ Total corretagem / Despesas
+0,00
+ Líquido para  27/01/2023
+3.590,11
+ Observação:  (1) As operações a termo não são computadas no líquido da fatura
+____________________________________________________________________
+BB BANCO DE INVESTIMENTO S.A.
+Banco do Brasil - Home Broker (v #)
+Página 1 de 1
+01/03/2023  15:07
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+D/C

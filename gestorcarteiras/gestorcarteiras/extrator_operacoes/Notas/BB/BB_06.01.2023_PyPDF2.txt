@@ -1,0 +1,92 @@
+ Nr.Nota  Folha
+06012023/749 Data pregão
+1 06/01/2023
+  RUA SENADOR DANTAS, 105 - 36º ANDAR - CENTRO RIO DE JANEIRO - RJ CEP: 20031-923
+ Tel. 4004-0001  ou  0800 729 0001                                          Suporte Técnico: Tel. 0800 729 0200 
+ Internet  :  www.bb.com.br/acoes e-mail: acoes@bb.com.br 
+ C.N.P.J.:  24.933.830/0001-30 Carta Patente: 9.927.802/87 
+ Ouvidoria: Tel. 0800 729 5678 e-mail ouvidoria:
+ Cliente  C.P.F./C.N.P.J./C.V.M./C.O.B.
+799.824.171-34
+ Código cliente
+820-6 1.142.805-0 Assessor
+0
+ Agente de Compensação
+                - Cliente
+                - Valor
+3.437,07 Custodiante  C.I.
+                - N
+ Agência  Conta Corrente  Acionista  Administrador  Complemento nome  P.
+3.475 211.346-5 BB BANCO DE INVESTIMENTO S.A.
+1.142.805-0 EDUARDO DE ANDRADE RODRIGUES
+PC DOS TRES PODERES NOTA DE CORRETAGEM
+ Banco
+1
+ Negócios realizados | DBRASILIA - DF 70100-000(61) 99987-1729
+Q Negociação C/V Tipo mercado  Prazo Especificação do título  Obs.  Quantidade  Preço / D/C  Valor Operação /
+1-BOVESPA CVISTA FII CSHG URB CI  ER 4 117,14 468,56 D
+1-BOVESPA CVISTA FII XP INDL CI 3 73,31 219,93 D
+1-BOVESPA CVISTA FII GEN SHOP CI  ER 1 49,48 49,48D
+1-BOVESPA CVISTA FII GEN SHOP CI  ER 2 49,48 98,96D
+1-BOVESPA CVISTA FII MALLS BP CI  ER 2 101,27 202,54 D
+1-BOVESPA CVISTA FII MALLS BP CI  ER 2 101,27 202,54 D
+1-BOVESPA CVISTA FII TRX REAL CI  ER 4 104,50 418,00 D
+1-BOVESPA CVISTA FII IRIDIUM CI 2 93,14 186,28 D
+1-BOVESPA CVISTA FII IRIDIUM CI 2 93,15 186,30 D
+1-BOVESPA CVISTA FII S F LIMA CI  ER 4 129,62 518,48 D
+1-BOVESPA CVISTA FII SDI LOG CI  ER 4 89,60 358,40 D
+1-BOVESPA CVISTA FII XP MALLS CI 4 95,21 380,84 D
+1-BOVESPA CVISTA FII RBR PROP CI 3 48,58 145,74 D
+D
+D
+D
+D
+DDDDDDDD Resumo dos Negócios
+ Debêntures 0,00
+ Vendas à vista 0,00
+ Compras à vista 3.436,05
+ Opções - compras
+ Opções - vendas0,00
+0,00
+ Operações à termo
+ Valor das oper. c/ títulos públ. (v. nom.)
+ Valor das operações0,00
+0,00
+3.436,05
+ Especificações diversas
+ A Coluna Q indica liquidação no Agente do Qualificado.
+ I.R.R.F Day-Trade: Base R$ 0,00             Projeção R$ 0,00
+ (*) - Observações:
+ 2 - Corretora ou pessoa vinculada atuou na contraA - Posição Futuro  T - Liquidação pelo Bruto
+C - Clubes e Fundos de Ações  I - POP
+ # - Negócio direto P - Carteira Própria
+ 8 - Liquidação Institucional. H - Home Broker
+ D - Day-Trade X - Box
+ F - Cobertura Y - Desmanche de Box
+ B - Debêntures L - Precatório Resumo Financeiro
+ CBLC
+3.436,05  Valor líquido das operações
+ Taxa de liquidação
+ Taxa de Registro0,85
+ Total  CBLC 3.436,90
+ Bovespa / Soma
+ Taxa de termo/opções
+ Taxa A.N.A.
+ Emolumentos 0,17
+ Total Bovespa / Soma 0,17
+ Corretagem / Despesas
+ Corretagem
+ Outras
+ Total corretagem / Despesas0,00
+ Líquido para  10/01/2023 3.437,07
+ Observação:  (1) As operações a termo não são computadas no líquido da fatura
+____________________________________________________________________
+BB BANCO DE INVESTIMENTO S.A.
+ 
+ 
+Banco do Brasil - Home Broker (v #)
+Página 1 de 1 01/03/2023  15:070,00
+0,000,00
+0,00
+0,00
+0,00D/C

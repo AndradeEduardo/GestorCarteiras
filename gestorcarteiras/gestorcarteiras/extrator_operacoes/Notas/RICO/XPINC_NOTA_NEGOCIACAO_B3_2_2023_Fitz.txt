@@ -1,0 +1,183 @@
+Negócios realizados
+Q Negociação
+C/V Tipo mercado
+Prazo
+Especificação do título
+Obs. (*)
+Quantidade
+Preço / Ajuste
+Valor Operação / Ajuste
+D/C
+1-BOVESPA
+C
+FRACIONARIO
+B3          ON ED NM
+44
+10,62
+467,28
+D
+1-BOVESPA
+C
+FRACIONARIO
+IRANI          ON NM
+23
+8,04
+184,92
+D
+1-BOVESPA
+C
+FRACIONARIO
+TELEF BRASIL          ON
+8
+39,84
+318,72
+D
+1-BOVESPA
+C
+FRACIONARIO
+TELEF BRASIL          ON
+3
+39,84
+119,52
+D
+1-BOVESPA
+C
+VISTA
+SIMPAR          ON NM
+100
+7,35
+735,00
+D
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+63296562
+Folha
+1
+Data pregão
+24/02/2023
+Rico Investimentos - Grupo XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 25º ANDAR VILA OLIMPIA
+04543-907
+SÃO PAULO - SP
+Tel. (5511) 3003-5465   Fax: (5511) 4007-2465
+Internet: www.rico.com.vc SAC: 0800.722.3730
+e-mail: atendimento@rico.com.vc
+C.N.P.J: 02.332.886/0016-82
+Carta Patente:
+Ouvidoria: Tel. 0800.722.3730
+e-mail ouvidoria:
+Cliente
+6429668
+EDUARDO DE ANDRADE RODRIGUES
+SQS 102 BLOCO K, 105 ASA SUL
+Tel. (061) 99987-1729
+70330-110 BRASILIA - DF
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+Banco
+Agência
+Conta corrente
+Acionista
+Administrador
+799.824.171-34
+C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente
+3-5   6429668
+Assessor
+9038
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+0,00
+0,00
+1.825,44
+0,00
+0,00
+0,00
+0,00
+1.825,44
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) Observações
+A - Posição futuro
+T - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.
+C - Clubes e fundos de Ações
+I - POP
+# - Negócio direto
+P - Carteira Própria
+8 - Liquidação Institucional
+H - Home Broker
+D - Day Trade
+X - Box
+F - Cobertura
+Y - Desmanche de Box
+B - Debêntures
+L - Precatório
+1.825,89
+Total CBLC
+D
+1.825,44
+Valor líquido das operações
+D
+0,45
+Taxa de liquidação
+D
+0,00
+Taxa de Registro
+D
+0,09
+Total Bovespa / Soma
+D
+0,00
+Taxa de termo/opções
+D
+0,00
+Taxa A.N.A.
+D
+0,09
+Emolumentos
+D
+ 
+0,00
+Total Custos / Despesas
+D
+ 
+0,00
+Taxa Operacional
+D
+0,00
+Execução
+0,00
+Taxa de Custódia
+0,00
+Impostos
+0,00
+I.R.R.F. s/ operações, base R$0,00
+0,00
+Outros
+C
+1.825,98
+Líquido para 28/02/2023
+D
+Resumo Financeiro
+Clearing
+Bolsa
+Custos Operacionais
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 3003-5465 ou 4007-2465 Demais localidades: 0800-771-5465 SAC: 0800-774-0402 Ouvidoria: 0800-722-3730
